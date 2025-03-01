@@ -1,0 +1,7 @@
+Responsibility of the RetailItem Class
+
+Hold the Description, Units, and Price of the retail item.
+
+Standard Mutators and Accessor methods.
+
+Return the state of the object with toString() method.

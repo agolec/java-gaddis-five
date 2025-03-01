@@ -1,0 +1,23 @@
+TestScores class
+
+Purpose: Store a collection of Test Scores.
+
+Responsibilities: Hold a collection of test scores representing tests a single student has taken.
+
+Only allow scores with values between 0 and 100.
+
+Return the average of all the test scores.
+
+Main Method of Program:
+
+Gather Input:
+
+ask user for mimimum score
+ask user for maximum score
+ask user for how many tests they have.
+Validate Test Scores
+
+For each test the user said they have, enter a score.
+
+Validate the test score.
+Create a TestScores object.
